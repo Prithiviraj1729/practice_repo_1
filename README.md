@@ -1,2 +1,2 @@
-# practice_repo_1
+# MLops practice- harshad tyagi
 trial_2
