@@ -1,2 +1,2 @@
 def clean_df(df):
-    return df['price']
+    return df['original_price']
